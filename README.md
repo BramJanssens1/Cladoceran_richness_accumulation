@@ -1,4 +1,4 @@
-# code for the analysis presented in Janssens & Wijns et al. (submitted)
+# Code for the analysis presented in Janssens & Wijns et al. (submitted)
 
 This repository contains the code for the statistical analyses and visualization presented in: 
 
